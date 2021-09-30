@@ -1,0 +1,533 @@
+[
+  {
+    "category": "\"I\" LADS",
+    "air_date": "2000-12-18",
+    "question": "'This punk rock hitmaker heard here has had numerous hits on both sides of the Atlantic'",
+    "value": "$100",
+    "answer": "Billy Idol",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "\"I\" LADS",
+    "air_date": "2000-12-18",
+    "question": "'Czar at 17, he was famous for extraordinary sadism & cruelty, even as a boy'",
+    "value": "$200",
+    "answer": "Ivan the Terrible",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "\"I\" LADS",
+    "air_date": "2000-12-18",
+    "question": "'Nudge, nudge, wink, wink!  This man seen here starred on a classic British comedy show'",
+    "value": "$300",
+    "answer": "Eric Idle",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "\"I\" LADS",
+    "air_date": "2000-12-18",
+    "question": "'His is the first & longest book of the Bible's major prophets'",
+    "value": "$400",
+    "answer": "Isaiah",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "\"I\" LADS",
+    "air_date": "2000-12-18",
+    "question": "'This auto exec's autobiography is one of the bestselling nonfiction works in publishing history'",
+    "value": "$500",
+    "answer": "Lee Iacocca",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "1994 FILMS",
+    "air_date": "2000-07-19",
+    "question": "'Quentin Tarantino directed this film & also had a bit role as Jimmy of Toluca Lake'",
+    "value": "$100",
+    "answer": "Pulp Fiction",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "1994 FILMS",
+    "air_date": "2000-07-19",
+    "question": "'As mad bomber Howard Payne in this film, Dennis Hopper planted a bomb on an L.A. area transit bus'",
+    "value": "$200",
+    "answer": "Speed",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "1994 FILMS",
+    "air_date": "2000-07-19",
+    "question": "'Jean Vander Pyl, who played Wilma in the original cartoon series, played Mrs. Feldspar in this movie adaptation'",
+    "value": "$300",
+    "answer": "The Flintstones",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "1994 FILMS",
+    "air_date": "2000-07-19",
+    "question": "'Containing the hit \"Can You Feel The Love Tonight\", it was Disney's first animated feature not based on an existing story'",
+    "value": "$400",
+    "answer": "The Lion King",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "1994 FILMS",
+    "air_date": "2000-07-19",
+    "question": "'In this film Martin Scorsese says the TV audience wants \"To  watch the money\"'",
+    "value": "$800",
+    "answer": "Quiz Show",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "ARCHITECTS",
+    "air_date": "2000-07-19",
+    "question": "'Minoru Yamasaki reached new heights with this New York City complex'",
+    "value": "$100",
+    "answer": "World Trade Center",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "ARCHITECTS",
+    "air_date": "2000-07-19",
+    "question": "'William Pereira erected his Transamerica \"Pyramid\" in this city'",
+    "value": "$200",
+    "answer": "San Francisco",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "ARCHITECTS",
+    "air_date": "2000-07-19",
+    "question": "'Charles Bulfinch, who contributed to the Capitol in Washington, D.C., designed this city's state house on Beacon Hill'",
+    "value": "$300",
+    "answer": "Boston",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "ARCHITECTS",
+    "air_date": "2000-07-19",
+    "question": "'Dallas-Fort Worth Airport architect Gyo Obata helped design this Smithsonian museum'",
+    "value": "$400",
+    "answer": "Air & Space Museum",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "ARCHITECTS",
+    "air_date": "2000-07-19",
+    "question": "'Louis Skidmore designed the secret atomic site that became this Tennessee town'",
+    "value": "$500",
+    "answer": "Oak Ridge",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "BACKWORDS",
+    "air_date": "2000-12-18",
+    "question": "'We'll look smart in these vehicles that returned to London in 1999'",
+    "value": "$100",
+    "answer": "Trams (smart)",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "BACKWORDS",
+    "air_date": "2000-12-18",
+    "question": "'Ed leaves pools of water on the carpet when he comes in from sailing this boat'",
+    "value": "$200",
+    "answer": "Sloop (pools)",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "BACKWORDS",
+    "air_date": "2000-12-18",
+    "question": "'You'd be naive to think you can make bottled water that's more popular than this'",
+    "value": "$300",
+    "answer": "Evian (naive)",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "BACKWORDS",
+    "air_date": "2000-12-18",
+    "question": "'Aye, lass, I'll wed thee ere this has dried on the fields'",
+    "value": "$400",
+    "answer": "Dew (wed)",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "BACKWORDS",
+    "air_date": "2000-12-18",
+    "question": "'You know so much about policy, you qualify as this'",
+    "value": "$500",
+    "answer": "Wonk (know)",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "FLAGS OF THE WORLD",
+    "air_date": "2000-07-19",
+    "question": "'It's the kingdom whose flag is seen here (Union Jack)'",
+    "value": "$100",
+    "answer": "Great Britain/England",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "FLAGS OF THE WORLD",
+    "air_date": "2000-07-19",
+    "question": "'Seen here is the flag of this nation (the home of Bollywood)'",
+    "value": "$200",
+    "answer": "India",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "FLAGS OF THE WORLD",
+    "air_date": "2000-07-19",
+    "question": "'Andy Garcia is a native of this country whose flag is seen here'",
+    "value": "$300",
+    "answer": "Cuba",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "FLAGS OF THE WORLD",
+    "air_date": "2000-07-19",
+    "question": "'In the 1990s, this nation whose flag is seen here moved its seat of government to a different city'",
+    "value": "$400",
+    "answer": "Germany",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "FLAGS OF THE WORLD",
+    "air_date": "2000-07-19",
+    "question": "'This Mediterranean country whose flag is seen here is \"The Word\"'",
+    "value": "$500",
+    "answer": "Greece",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "FOREWORDS",
+    "air_date": "2000-12-18",
+    "question": "'\"Conrad begins (and ends) Marlow's journey... on the Thames, on the yawl, Nellie\", says the foreword to this novel'",
+    "value": "$100",
+    "answer": "Heart of Darkness",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "FOREWORDS",
+    "air_date": "2000-12-18",
+    "question": "'Part 2 \"is Lilliput in reverse, but...also offers some of\" his \"fiercest assaults upon the behavior of\" his countrymen'",
+    "value": "$200",
+    "answer": "Jonathan Swift",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "FOREWORDS",
+    "air_date": "2000-12-18",
+    "question": "'She said that her husband Frank O'Connor was the fuel that kept her spirited while she wrote \"The Fountainhead\"'",
+    "value": "$300",
+    "answer": "Ayn Rand",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "FOREWORDS",
+    "air_date": "2000-12-18",
+    "question": "'One edition calls this Darwin opus one of \"the most readable and approachable\" of revolutionary scientific works'",
+    "value": "$400",
+    "answer": "The Origin of Species",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "GENERAL SCIENCE",
+    "air_date": "2000-07-19",
+    "question": "'This white, glossy coating on your teeth is the hardest substance in the human body'",
+    "value": "$100",
+    "answer": "Enamel",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GENERAL SCIENCE",
+    "air_date": "2000-07-19",
+    "question": "'The time it takes for 50% of the atoms to decay in a radioactive substance is called this'",
+    "value": "$200",
+    "answer": "Half-life",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GENERAL SCIENCE",
+    "air_date": "2000-07-19",
+    "question": "'While compounds of this element are added to table salt, in its pure form it's quite poisonous'",
+    "value": "$300",
+    "answer": "Iodine",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GENERAL SCIENCE",
+    "air_date": "2000-07-19",
+    "question": "'The \"super\" class of these stars, the largest known, includes Antares & Betelgeuse'",
+    "value": "$400",
+    "answer": "Red giants",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GENERAL SCIENCE",
+    "air_date": "2000-07-19",
+    "question": "'On the pH scale, a pH of 7 indicates this type of solution'",
+    "value": "$500",
+    "answer": "Neutral",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GETTING POSSESSIVE",
+    "air_date": "2000-07-19",
+    "question": "'This bovine took the rap for the disastrous fire of October 8, 1871'",
+    "value": "$100",
+    "answer": "Mrs. O\\'Leary\\'s cow",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GETTING POSSESSIVE",
+    "air_date": "2000-07-19",
+    "question": "'At 14,140 feet, this Rocky Mountain peak discovered in 1806 is one of Colorado's highest'",
+    "value": "$200",
+    "answer": "Pike\\'s Peak",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GETTING POSSESSIVE",
+    "air_date": "2000-07-19",
+    "question": "'While one creation slept, God took this to make Eve'",
+    "value": "$300",
+    "answer": "Adam\\'s rib",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GETTING POSSESSIVE",
+    "air_date": "2000-07-19",
+    "question": "'You'll find this triangular island about 4 miles off the southeast coast of Massachusetts'",
+    "value": "$400",
+    "answer": "Martha\\'s Vineyard",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "GETTING POSSESSIVE",
+    "air_date": "2000-07-19",
+    "question": "'In Exodus, this was thrown down before Pharaoh at Moses' instruction'",
+    "value": "$500",
+    "answer": "Aaron\\'s rod (turned into a snake)",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "ROYAL FEMALE NICKNAMES",
+    "air_date": "2000-12-18",
+    "question": "'Prime Minister Tony Blair dubbed her \"The People's Princess\"'",
+    "value": "$100",
+    "answer": "Princess Diana",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "ROYAL FEMALE NICKNAMES",
+    "air_date": "2000-12-18",
+    "question": "'She was \"The Untamed Heifer\" & \"The Virgin Queen\"'",
+    "value": "$200",
+    "answer": "Elizabeth I",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "ROYAL FEMALE NICKNAMES",
+    "air_date": "2000-12-18",
+    "question": "'Mark Antony called her \"The Queen of Queens\"'",
+    "value": "$300",
+    "answer": "Cleopatra",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "ROYAL FEMALE NICKNAMES",
+    "air_date": "2000-12-18",
+    "question": "'The 19th century's \"Widow of Windsor\"'",
+    "value": "$400",
+    "answer": "Queen Victoria",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "ROYAL FEMALE NICKNAMES",
+    "air_date": "2000-12-18",
+    "question": "'\"The Catholic\" of 15th century Spain'",
+    "value": "$500",
+    "answer": "Queen Isabella",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "THE EYES HAVE IT",
+    "air_date": "2000-07-19",
+    "question": "'A student, or a minor in Roman law'",
+    "value": "$100",
+    "answer": "Pupil",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "THE EYES HAVE IT",
+    "air_date": "2000-07-19",
+    "question": "'A blow with a whip'",
+    "value": "$200",
+    "answer": "Lash",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "THE EYES HAVE IT",
+    "air_date": "2000-07-19",
+    "question": "'A hollow area that holds a light bulb'",
+    "value": "$300",
+    "answer": "Socket",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "THE EYES HAVE IT",
+    "air_date": "2000-07-19",
+    "question": "'Flower seen here (that fits the category)'",
+    "value": "$400",
+    "answer": "Iris",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "THE EYES HAVE IT",
+    "air_date": "2000-07-19",
+    "question": "'People say these are what you need to make it in Hollywood'",
+    "value": "$500",
+    "answer": "Contacts",
+    "round": "Jeopardy!",
+    "show_number": "3673"
+  },
+  {
+    "category": "TRAVEL & TOURISM",
+    "air_date": "2000-12-18",
+    "question": "'The Cinderella Castle Mystery Tour is a highlight of this Asian city's Disneyland'",
+    "value": "$100",
+    "answer": "Tokyo",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TRAVEL & TOURISM",
+    "air_date": "2000-12-18",
+    "question": "'The home of silk merchant Jim Thompson, who disappeared in 1967, is a tourist attraction in this Thai city'",
+    "value": "$200",
+    "answer": "Bangkok",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TRAVEL & TOURISM",
+    "air_date": "2000-12-18",
+    "question": "'We're not stringing you along: this capital of the Czech Republic is famous for its puppet theatres'",
+    "value": "$300",
+    "answer": "Prague",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TRAVEL & TOURISM",
+    "air_date": "2000-12-18",
+    "question": "'Jomo Kenyatta International Airport serves this world capital'",
+    "value": "$500",
+    "answer": "Nairobi, Kenya",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TRAVEL & TOURISM",
+    "air_date": "2000-12-18",
+    "question": "'Andrea Palladio's 1554 book on \"The Antiquities of\" this city was the standard guidebook for some 200 years'",
+    "value": "$500",
+    "answer": "Rome",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TV ACTORS & ROLES",
+    "air_date": "2000-12-18",
+    "question": "'Once Tommy Mullaney on \"L.A. Law\", John Spencer now plays White House chief of staff Leo McGarry on this series'",
+    "value": "$100",
+    "answer": "The West Wing",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TV ACTORS & ROLES",
+    "air_date": "2000-12-18",
+    "question": "'Barbra Streisand knows he played Lt. Col. Bill \"Raider\" Kelly on \"Pensacola: Wings of Gold\"'",
+    "value": "$200",
+    "answer": "James Brolin",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TV ACTORS & ROLES",
+    "air_date": "2000-12-18",
+    "question": "'(Hi, I'm Wallace Langham)  I played Don Kirshner in VH1's TV movie about this quartet who sang \"Daydream Believer\"'",
+    "value": "$300",
+    "answer": "The Monkees",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TV ACTORS & ROLES",
+    "air_date": "2000-12-18",
+    "question": "'Teri Hatcher looked \"shipshape\" as one of the singing \"mermaids\" who jumped on board this cruisin' series in 1985'",
+    "value": "$400",
+    "answer": "The Love Boat",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  },
+  {
+    "category": "TV ACTORS & ROLES",
+    "air_date": "2000-12-18",
+    "question": "'On \"Saturday Night Live\", he's famous for playing Craig the Cheerleader, Janet Reno & moi'",
+    "value": "$500",
+    "answer": "Will Ferrell",
+    "round": "Jeopardy!",
+    "show_number": "3751"
+  }
+]
